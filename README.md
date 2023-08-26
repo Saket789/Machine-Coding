@@ -20,5 +20,3 @@ Rent different kinds of vehicles such as cars and bikes.
 3.  Rent a vehicle for a time slot and a vehicle type(the lowest price as the default choice extendable to any other strategy).
 4.  Display available vehicles for a given branch sorted on price.
 5.  The vehicle will have to be dropped at the same branch where it was picked up.
-**Bonus question:**7.  Dynamic pricing – demand vs supply. If 80% of cars in a particular branch are booked, increase the price by 10%.
-
