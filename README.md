@@ -2,7 +2,7 @@
 
 **The Challenge**  
 
-Rent different kinds of vehicles such as cars and bikes.
+A Company is starting a new vehicle rental service called RentKar. In this service, we will rent different kinds of vehicles such as cars and bikes.
 
 
 **Features:**  
